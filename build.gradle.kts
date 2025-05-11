@@ -9,7 +9,7 @@ allprojects {
 
 plugins {
     application
-    kotlin("jvm") version "1.4.10"
+    kotlin("jvm") version "1.9.25"
 }
 
 application {
