@@ -46,7 +46,7 @@ tasks {
 dependencies {
     //kotlin
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.4.10")
-    implementation("org.jetbrains.kotlin:kotlin-reflect:1.4.10")
+    implementation("org.jetbrains.kotlin:kotlin-reflect:2.4.20")
 
     //TornadoFX
     implementation("no.tornado:tornadofx:2.0.0-SNAPSHOT") {
